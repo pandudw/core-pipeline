@@ -1,4 +1,4 @@
-name: Builde Image Docker (CI)
+name: CI Build Docker Image
 
 on:
   workflow_call:
