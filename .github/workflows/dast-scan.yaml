@@ -16,7 +16,7 @@ on:
 
 jobs:
   soos_dast_baseline_analysis:
-    name: SOOS DAST Baseline Analysis
+    name: DAST Zaproxy 
     runs-on: ubuntu-latest
     steps:
       - name: Run SOOS DAST Baseline Analysis
