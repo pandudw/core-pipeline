@@ -1,4 +1,4 @@
-name: Integrate SonarCloud to Github Action (SAST)
+name: CI SAST SonarCloud
 
 on:
   workflow_call:
