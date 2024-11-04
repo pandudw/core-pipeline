@@ -1,4 +1,4 @@
-name: Pylint Workflow
+name: Check Linter Python
 
 on:
   workflow_call:
