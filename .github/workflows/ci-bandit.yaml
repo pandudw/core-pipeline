@@ -20,7 +20,7 @@ jobs:
       run: |
         apt-get update
         apt-get install python3 python3-pip -y
-        pip install pylint
+        pip install bandit
 
     - name: Run pylint
       run: |
